@@ -1,6 +1,14 @@
 # realpath
 ### Način za dobijanje apsolutne putanje do skripti.
 
+Pokretanje:
+
+```
+git clone https://github.com/viktordw/realpath.git
+cd realpath
+chmod +x script.sh
+```
+
 Izlaz komande:
 
 ```
