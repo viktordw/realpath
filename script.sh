@@ -8,9 +8,8 @@ function divider () {
 }
 source "${SCRIPTPATH}/includes/hello.sh"
 
-path=$(pwd)
 divider
-printf "Trenutna putanja je:\n  ${path}\n"
+printf "Trenutna putanja je:\n  ${PWD}\n"
 printf "Putanja do glavnog fajla je:\n  ${SCRIPT}\n"
 hello
 divider
