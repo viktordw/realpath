@@ -5,7 +5,7 @@ Pokretanje:
 
 ```
 git clone https://github.com/viktordw/realpath.git
-cd realpath
+cd realpath/
 chmod +x script.sh
 ```
 
